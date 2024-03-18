@@ -1,0 +1,7 @@
+.container {
+  height: 100vh;
+  cursor: pointer;
+  position: relative;
+  width: 100vw;
+}
+
